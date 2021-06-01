@@ -1,5 +1,5 @@
 # Fuzzy Logic and Knowledge Based Systems (AI)
-Academic project (Computer Games Programming)
+Academic project (Computer Games Programming BSc)
 
 Artificial Intelligence on NPC difficulty in First-Person Shooter games - Fuzzy Logic System (FLS)
 
