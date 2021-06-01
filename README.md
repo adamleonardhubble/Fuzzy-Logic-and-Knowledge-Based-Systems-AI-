@@ -3,7 +3,7 @@ Artificial Intelligence on NPC difficulty in First-Person Shooter games - Fuzzy 
 
 Author: Adam Hubble
 
-Work published as a book chapter:
+Work published as a book chapter, within:
 
 Fuzzy Logic: Recent Applications and Developments, Chapter 11
 
