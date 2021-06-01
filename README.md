@@ -5,6 +5,6 @@ Author: Adam Hubble
 
 Work published as a book chapter, within:
 
-Fuzzy Logic: Recent Applications and Developments, Chapter 11
+Fuzzy Logic: Recent Applications and Developments (Chapter 11)
 
 Available from: https://www.springer.com/in/book/9783030664732#otherversion=9783030664749
